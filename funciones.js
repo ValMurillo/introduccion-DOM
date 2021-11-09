@@ -9,10 +9,10 @@ sr.reveal('#txt', {   //se puede utilizar solo si tiene id o div(con un id) o un
 
 
 function no_drama(){
-document.getElementById("img").src="img/triste.png";
+document.getElementById("img").src="triste.png";
 }
 function drama(){
-    document.getElementById("img").src="img/feliz..png";
+    document.getElementById("img").src="feliz..png";
     }
     
 function cambiar_morado(){
